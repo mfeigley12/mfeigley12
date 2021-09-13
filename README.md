@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-~Trying to learn how to mold programming to fit my needs.~
+Trying to learn how to mold programming to fit my needs.
+:bento:
